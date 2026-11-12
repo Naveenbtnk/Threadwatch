@@ -175,9 +175,3 @@ Threadwatch/
 - Severity-based response tiers (notify only vs auto-remediate)
 - DynamoDB TTL ensures automatic data expiry after 90 days
 - All sensitive config via Lambda environment variables
-
----
-
-## 🙏 Credits
-
-Adapted from the original [aws-guardduty-alerting-pipeline](https://github.com/GeekyBlessing/aws-guardduty-alerting-pipeline) by GeekyBlessing.
